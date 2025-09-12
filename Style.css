@@ -3,7 +3,7 @@
     --preto: #000;
     --branco: #fff;
     --lilas-claro: #eb76db;
-    --azul-médio: #2f4dd1;
+    --azul-médio: #2fd160;
     --amarelo:#cfe80d;
 }
 /*corpo da página*/
@@ -50,7 +50,7 @@ margin-right: 20px;
 }
 
 .chamada {
-background: rgb(184, 156, 213);
+background: rgb(163, 214, 42);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
@@ -73,11 +73,11 @@ margin-left: 30px;
 }
 
 .classel {
-    background-color: #eb76db;
+    background-color: #464ebb;
 }
 
 .principal{
-    background-color: aliceblue;
+    background-color: rgb(40, 207, 96);
 }
 
 /*rodapé*/
